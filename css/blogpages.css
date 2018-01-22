@@ -1,0 +1,209 @@
+
+
+.wholeBigContainer{
+    width: 60%;
+    text-align: center;
+    margin: auto;
+}
+
+
+.Main{
+    float: left;
+    width: 68%;
+    background-color:white;
+}
+.Side{
+    /* background-color:#ff97be; */
+    background-color: #ffe5ef;
+    width: 25%;
+    float: left;
+    /* height: 100%; */
+}
+
+.blogPostHeaderImage{
+    width: 60%;
+}
+
+.blogTitle{
+    font-size: 40px;
+    font-family: 'Maven Pro';
+}
+.blogBody{
+    
+    width: 60%;
+}
+.blogBody p{
+    font-size: 14px;
+    text-align: left;
+    font-family: 'Maven Pro';
+}
+
+#blogpages{
+    font-family: 'Maven Pro';
+    font: #666666;
+}
+
+.blogpost{
+    padding-bottom: 30px;
+    font-family: 'Maven Pro';
+}
+.title{
+    font-family: 'Playfair Display';
+    font-size: 30px;
+    line-height: 5px;
+    padding-top: 30px;
+}
+
+.date{
+    font-size: 10px;
+    line-height: 5px;
+}
+
+.img{
+    width:80%;
+    padding-bottom: 20px;
+}
+
+.sample{
+    padding: 0 50;
+    line-height: 1.2;
+}
+
+.readMore{
+    background-color: #f9f9f9;
+    color: #484848;
+}
+
+.sideIntroMe{
+    padding: 0 10px;
+    font-size: 14;
+    line-height: 15px;
+    font-family: 'Maven Pro';
+    font: #666666;
+}
+
+  .pulse:hover, .pulse:focus {
+    animation: pulse 1s;
+    box-shadow: 0 0 0 2em rgba(255, 255, 255, 0);
+  }
+  @keyframes pulse {
+    0% {
+      box-shadow: 0 0 0 0 var(--hover);
+    }
+  }
+  .pulse {
+    --color: #ff97be;
+    --hover: #ef6eae;
+  }
+
+  .raise:hover, .raise:focus {
+    box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
+    transform: translateY(-0.25em);
+  }
+
+  .raise {
+    --color: #ffa260;
+    --hover: #e5ff60;
+  }
+
+  button {
+    color: var(--color);
+    transition: 0.5s;
+  }
+  button:hover, button:focus {
+    border-color: var(--hover);
+    color: #484848;
+  }
+
+  button {
+    background: none;
+    border: 2px solid;
+    font: inherit;
+    line-height: 1;
+    margin: 0.5em;
+    padding: 1em 2em;
+  }
+
+  a{
+      color: inherit;
+  }
+  a:hover, a:focus{
+      color: inherit;
+      text-decoration: none;
+  }
+
+  #disqus_thread{
+      width: 50%;
+  }
+
+  .sideMe{
+      width: 100%;
+      padding: 8px;
+
+  }
+
+  .sideTwitter{
+      margin: 5px;
+  }
+
+  .blogImages{
+      width:40%;
+  }
+
+
+  @media screen and (max-width: 479px) {
+    /* start of phone styles */
+    .Main{
+        width: 100%;
+    }
+
+    .sample{
+        padding: 0;
+    }
+
+    .title{
+        line-height: 40px;
+        padding-top: 30px;
+    }
+    
+    .date{
+        font-size: 10px;
+        line-height: 5px;
+    }
+    .wholeBigContainer{
+        width: 100%;
+        padding:10px;
+    }
+
+    }
+
+    @media screen and (min-width:785px) and (max-width: 1303px) {
+        .wholeBigContainer{
+            width: 100%;
+        }
+        .blogBody{
+            width: 80%;
+        }
+        .blogPostHeaderImage {
+            width: 80%;
+        }
+    }
+
+    @media screen and (min-width:200px) and (max-width: 784px) {
+        .wholeBigContainer{
+            width: 100%;
+        }
+
+        .emailInputs{
+            width: 100%;
+        }
+        .blogBody{
+            width: 90%;
+        }
+        .blogPostHeaderImage {
+            width: 90%;
+        }
+        .blogImages{
+            width: 100%;
+        }
+    }

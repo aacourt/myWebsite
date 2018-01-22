@@ -1,0 +1,33 @@
+.instaimg img{
+    margin-bottom: 30px;
+}
+
+.instaimg img:hover{
+    opacity: 0.8;
+    -moz-opacity:0.8;
+    -webkit-opacity:0.8;
+}
+
+#logo{
+    width: 25%;
+}
+
+.container{
+    padding-top: 20px;
+}
+
+@media screen and (max-width: 991px) {
+    #instafeed{
+        display: none;
+    }
+    .seperater{
+        display: none;
+    }
+    #logo{
+        width: 55%;
+    }
+}
+
+.blogSlider{
+    width: 100%;
+}

@@ -1,0 +1,74 @@
+div #pageText {
+    font-family: 'Maven Pro';
+}
+
+p a:hover{
+    color: #ff97be;
+}
+
+
+.seperater{
+    padding-bottom: 20px;
+}
+
+.me{
+    width: 20%;
+    padding-top: 20px;
+}
+
+h1{
+    font-family: 'Maven Pro';
+}
+
+.oldernewerbuttons{
+    clear:both;
+}
+
+#miniCircleButtons{
+    height:12%;
+}
+
+
+@media screen and (max-width: 830px) {
+    #pageText{
+        padding: 0 150;
+    }
+}
+
+@media screen and (min-width:831px) and (max-width: 1180px) {
+    #pageText{
+        padding: 0 250;
+    }
+}
+@media screen and (min-width: 1181px) {
+    #pageText{
+        padding: 0 350;
+    }
+}
+
+@media screen and (max-width: 479px) {
+    /* start of phone styles */
+    #pageText{
+        padding: 0 30;
+    }
+    #miniCircleButtons{
+        height:22%;
+    }
+    .Side{
+        display:none;
+    }
+    .picSlider{
+        padding: 10px;
+    }
+
+}
+@media screen and (max-width: 991px) {
+    .picSlider{
+        padding: 10px;
+    }
+}
+@media screen and (max-width: 565px) {
+    .me{
+        width: 50%;
+    }
+}
