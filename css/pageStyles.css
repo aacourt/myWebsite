@@ -6,6 +6,9 @@ p a:hover{
     color: #ff97be;
 }
 
+#pageText{
+    font-family: "Maven Pro";
+}
 
 .seperater{
     padding-bottom: 20px;
