@@ -9,9 +9,9 @@
 
     gtag('config', 'UA-112235861-1');
     </script> 
-    <link rel='stylesheet' href='/../../css/blogpages.css'>
-    <link rel='stylesheet' href='/../../css/pageStyles.css'>
-    <link rel='stylesheet' href='/../../css/icons.css'>
+    <link rel='stylesheet' href='../../../css/blogpages.css'>
+    <link rel='stylesheet' href='../../../css/pageStyles.css'>
+    <link rel='stylesheet' href='../../../css/icons.css'>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body onload="javascript:window.scrollTo(0,0);">
