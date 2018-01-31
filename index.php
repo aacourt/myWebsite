@@ -27,23 +27,23 @@
     <section class="latest-posts">
 
     <article class = "post-article">
-            <a href = "/blogposts/blogs/07-01-2018.php#disqus_thread" >
+            <a href = "/blogposts/blogs/Jan2018/07-01-2018.php#disqus_thread" >
                 <div class = "image-container" >
-                    <img style = "width:110%; left:-8%" src="/images/blogs/27thJan/1.jpg">
+                    <img id="janFairyloot" src="/images/blogs/Jan2018/31stJan/1.jpg">
                 </div>
                 <div class = "details" >
                     <h3>
-                        <span>MY HAIR IS GONE</span>
+                        <span>JANUARY FAIRYLOOT</span>
                     </h3>
-                    <p class = "date"> 27th Jan 2018 </p>
+                    <p class = "date"> 31st Jan 2018 </p>
                 </div>
             </a>
         </article>
 
         <article class = "post-article">
-            <a href = "/blogposts/blogs/27-01-2018.php#disqus_thread" >
+            <a href = "/blogposts/blogs/Jan2018/27-01-2018.php#disqus_thread" >
                 <div class = "image-container" >
-                    <img style = "width:110%; left:-8%" src="/images/blogs/27thJan/1.jpg">
+                    <img id="hair" src="/images/blogs/Jan2018/27thJan/1.jpg">
                 </div>
                 <div class = "details" >
                     <h3>
@@ -55,9 +55,9 @@
         </article>
         
         <article class = "post-article">
-            <a href = "/blogposts/blogs/07-01-2018.php#disqus_thread" >
+            <a href = "/blogposts/blogs/Jan2018/07-01-2018.php#disqus_thread" >
                 <div class = "image-container" >
-                    <img style="top:-85%; left:-45%" src="/images/blogs/7thJan/1.jpg">
+                    <img id="meJoe" src="/images/blogs/Jan2018/7thJan/1.jpg">
                 </div>
                 <div class = "details" >
                     <h3>

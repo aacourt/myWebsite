@@ -69,8 +69,19 @@
     min-width: 100%;
     height: auto;
     min-height: 100%;
-    /* -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%); */
+}
+
+#meJoe{
+    top:-85%;
+    left: -74%;
+}
+
+#hair{
+    height:100%;
+}
+
+#janFairyloot{
+    height: 100%;
 }
 
 @media screen and (max-width: 1023px) {
@@ -78,9 +89,32 @@
         width: 50%;
     }
 }
+
+@media screen and (min-width:767px) and (max-width: 1023px) {
+    #meJoe{
+        left: -74%;
+    }
+}
+
 @media screen and (max-width: 767px) {
     .latest-posts article {
         width: 100%;
+    }
+}
+
+@media screen and (min-width:600px) and (max-width: 767px) {
+    #meJoe{
+        left: -42%;
+    }
+}
+
+@media screen and (max-width: 530px) {
+    #meJoe{
+        top:-75%;
+    }
+    #hair{
+        width: 140%;
+        left: -15px;
     }
 }
 
@@ -163,3 +197,4 @@ h1{
         width: 50%;
     }
 }
+
