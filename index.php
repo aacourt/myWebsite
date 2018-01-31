@@ -27,7 +27,7 @@
     <section class="latest-posts">
 
     <article class = "post-article">
-            <a href = "/blogposts/blogs/Jan2018/07-01-2018.php#disqus_thread" >
+            <a href = "/blogposts/blogs/Jan2018/31-01-2018.php#disqus_thread" >
                 <div class = "image-container" >
                     <img id="janFairyloot" src="/images/blogs/Jan2018/31stJan/1.jpg">
                 </div>

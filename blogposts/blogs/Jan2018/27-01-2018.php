@@ -28,7 +28,7 @@
             <p> IT HAPPENED. I DID IT. I CUT MY HAIR. And my oh my what a rollercoaster it has been, and still is to be honest. I decided to lob off a respectable 11 inches off my hair and for the life of me I can't get used to it. It's such a big change for me and to be honest I still don't know if I like it haha. I'm not reaallly sure what to do with it, and despite so much being taken off, I now feel like I have more hair???? It also actually takes LONGER to style and get ready in the morning. I did not sign up for this. BUT ALAS, life goes on. Anyway he's a little insight into the day I got it cut! Here's my hair before: </p>
 
             <img class="blogImages" src="../../../images/blogs/Jan2018/27thJan/2.jpg">
-            </br></br>
+            </br>
             <p>
             So I started my day by driving an hour to get back home where my hairdressers is ( I say MY hairdressers, I've only been twice but despite the hefty price tag I know they'd do a good job with this.). I dropped my boyfriend off for a day with my dad and then got to my appointment for half 11. NOW HERE is where I got mad nervous. The first cut. Although I was also excited. One great thing that's come from all this is that my hair was long enough be able to donate to the Little Princess Trust. For those who don't know they use the hair to make wigs for little girls who've lost their hair through illnesses such as cancer. So they put my hair in a ponytail and <i> snip snip snip<i> just like that it was gone.   </p>
 
