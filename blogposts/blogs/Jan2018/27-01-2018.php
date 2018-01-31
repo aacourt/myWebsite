@@ -21,8 +21,8 @@
 
     <center>
         <p class="blogTitle"> MY HAIR IS GONE</p>
-       
-        </br></br>
+        <p class="blogDate">27th January 2018</p>
+        </br>
 
         <div class="blogBody">
             <p> IT HAPPENED. I DID IT. I CUT MY HAIR. And my oh my what a rollercoaster it has been, and still is to be honest. I decided to lob off a respectable 11 inches off my hair and for the life of me I can't get used to it. It's such a big change for me and to be honest I still don't know if I like it haha. I'm not reaallly sure what to do with it, and despite so much being taken off, I now feel like I have more hair???? It also actually takes LONGER to style and get ready in the morning. I did not sign up for this. BUT ALAS, life goes on. Anyway he's a little insight into the day I got it cut! Here's my hair before: </p>

@@ -18,6 +18,7 @@
     <?php include ('../../../header.html'); ?>
     <center>
         <p class="blogTitle"> 2018 Blog Overhaul</p>
+        <p class="blogDate">7th January 2018</p>
         </br>
         <img class="blogPostHeaderImage" src="../../../images/blogpostHeaders/17-01-2018.jpg" class="img">
         </br></br>
