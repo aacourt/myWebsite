@@ -41,7 +41,7 @@
         </article>
 
         <article class = "post-article">
-            <a href = "/blogposts/blogs/07-01-2018.php#disqus_thread" >
+            <a href = "/blogposts/blogs/27-01-2018.php#disqus_thread" >
                 <div class = "image-container" >
                     <img style = "width:110%; left:-8%" src="/images/blogs/27thJan/1.jpg">
                 </div>

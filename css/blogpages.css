@@ -1,7 +1,7 @@
 
 
 .wholeBigContainer{
-    width: 60%;
+    width: 80%;
     text-align: center;
     margin: auto;
 }
@@ -13,11 +13,15 @@
     background-color:white;
 }
 .Side{
-    /* background-color:#ff97be; */
-    background-color: #ffe5ef;
     width: 25%;
     float: left;
     /* height: 100%; */
+}
+
+.divintro{
+    width: 90%;
+
+    padding-left: 32px;
 }
 
 .blogPostHeaderImage{
@@ -40,7 +44,7 @@
 
 #blogpages{
     font-family: 'Maven Pro';
-    font: #666666;
+    color: #666666;
 }
 
 .blogpost{
@@ -149,6 +153,11 @@
   .blogImages{
       width:40%;
   }
+
+  .emailInputs{
+      background-color: #ffe5ef;
+  }
+
 
 
   @media screen and (max-width: 479px) {

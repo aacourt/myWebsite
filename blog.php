@@ -35,14 +35,16 @@ if($_POST["submit"]) {
         </div>
         <div id="blogpages" class="Side"> 
             <div id = "introduction">
-                <img class="sideMe" src="/images/aboutMe.jpg" >
-                <p class="sideIntroMe">Welcome to my blog! I'm a full time programmer , professional napper and avid makeup hoarder. Find out more about me here. But enough about me, how are you?</p>
+                <img class="sideMe" src="/images/me.png" >
+                <div class="divintro">
+                    <p class="sideIntroMe">Welcome to my blog! I'm a full time programmer , professional napper and avid makeup hoarder. Find out more about me here. But enough about me, how are you?</p>
+                </div>
             </div>
             </br>
         
 
             <div id="emailSignUp">
-                <p id="blogpages">SIGN UP TO HEAR WHEN I NEXT POST!</p>
+                <p id="blogpages" style="color:black">SIGN UP TO HEAR WHEN I NEXT POST!</p>
                 <form method="post" action="blog.php">
                     First Name: </br>
                     <input class="emailInputs" type="text" name = "name" >
