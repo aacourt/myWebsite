@@ -118,6 +118,14 @@
     }
 }
 
+@media screen and (max-width: 400px) {
+    #meJoe{
+        left:-95%;
+    }
+}
+
+
+
 /* OTHER */
 
 div #pageText {
