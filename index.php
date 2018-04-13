@@ -27,6 +27,20 @@
     <section class="latest-posts">
 
     <article class = "post-article">
+            <a href = "/blogposts/blogs/Apr2018/13-04-2018.php#disqus_thread" >
+                <div class = "image-container" >
+                    <img id="newCandles" src="/images/blogs/Apr2018/13th/1.jpg">
+                </div>
+                <div class = "details" >
+                    <h3>
+                        <span>NEW CANDLE ALERT</span>
+                    </h3>
+                    <p class = "date"> 13th April 2018 </p>
+                </div>
+            </a>
+        </article>
+
+    <article class = "post-article">
             <a href = "/blogposts/blogs/Jan2018/31-01-2018.php#disqus_thread" >
                 <div class = "image-container" >
                     <img id="janFairyloot" src="/images/blogs/Jan2018/31stJan/1.jpg">
